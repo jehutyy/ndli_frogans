@@ -1,0 +1,494 @@
+﻿
+-------------------------------------------------------------
+Frogans Player for developers - Copyright Notices and License
+-------------------------------------------------------------
+
+Frogans Player for Developers [noinstall]
+Version: alpha0.1.7-win32
+
+Copyright (c) 1999-2015 OP3FT
+All rights reserved
+
+Frogans Player for Developers (the "Software") is developed by and
+belongs to the OP3FT.
+
+The Software must be used in compliance with the Frogans Technology User
+Policy, accessible at the following permanent 
+URL: https://www.frogans.org/en/resources/ftup/access.html
+
+All the Frogans sites included in one of the subdirectories of the
+"test" directory located in the Frogans Player directory are sample
+Frogans sites provided by the OP3FT to help you create your own Frogans
+sites. You are free to use, copy, distribute, modify, adapt, or share
+them.
+
+
+The Software uses third-party source materials which are credited below.
+Whenever required, the corresponding licenses are available in the
+archive of the Software, in the "Licenses" subdirectory of the
+"COPYRIGHT-AND-LICENSE" directory.
+
+
+
+------------------------------------------------------------------------
+FreeType 2.3.5 Library
+------------------------------------------------------------------------
+
+Copyright (c) 2006,2007 The FreeType Project (www.freetype.org).
+All rights reserved.
+
+
+------------------------------------------------------------------------
+ICU4C 3.8 Library
+------------------------------------------------------------------------
+
+Copyright (c) 1995-2006 International Business Machines Corporation and
+others.
+All rights reserved. 
+The license is copied in "ICU-license.txt".
+
+Copyright (c) 1991-2006 Unicode, Inc. All rights reserved. Distributed
+under the Terms of Use in http://www.unicode.org/copyright.html. 
+The license is copied in "Unicode-license.txt".
+
+
+------------------------------------------------------------------------
+IJG 6b Library
+------------------------------------------------------------------------
+
+Copyright (c) 1991-1998, Thomas G. Lane. All Rights Reserved.
+
+This software library is the work of the Independent JPEG Group:
+http://www.ijg.org/
+
+
+------------------------------------------------------------------------
+Fdlibm 1.7.0 Library
+------------------------------------------------------------------------
+
+Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.
+
+Developed at SunSoft, a Sun Microsystems, Inc. business. Permission to
+use, copy, modify, and distribute this software is freely granted,
+provided that this notice is preserved.
+
+Licensed under MPL 1.1. You may obtain a copy of the License at
+http://www.mozilla.org/MPL/
+
+
+------------------------------------------------------------------------
+Dlmalloc 2.8.6 Library
+------------------------------------------------------------------------
+
+Written by Doug Lea and released to the public domain:
+ftp://gee.cs.oswego.edu/pub/misc/malloc.c
+
+
+------------------------------------------------------------------------
+Zlib 1.2.3 Library
+------------------------------------------------------------------------
+
+Copyright (c) 1995-2004 Jean-loup Gailly and Mark Adler:
+http://www.zlib.net/
+
+
+------------------------------------------------------------------------
+LibSha1 Library
+------------------------------------------------------------------------
+
+Implementation of SHA1 hash function.
+Original author:  Steve Reid
+Contributions by: James H. Brown,
+                  Saul Kravitz,
+                  and Ralph Giles
+Modified by WaterJuice retaining Public Domain license.
+
+This is free and unencumbered software released into the public domain -
+June 2013 waterjuice.org
+
+
+------------------------------------------------------------------------
+LibGcc Library [Windows versions only]
+------------------------------------------------------------------------
+
+The Software includes the LibGcc Library, in application of the GCC
+Runtime Library Exception.
+https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html
+
+
+------------------------------------------------------------------------
+Qt 5.2.1 Library [Linux versions only]
+------------------------------------------------------------------------
+
+The Software includes the Qt Library, in application of the GNU LGPL
+article 5. 
+
+
+------------------------------------------------------------------------
+Abyssinica SIL Font
+------------------------------------------------------------------------
+
+The Abyssinica SIL font is released under the SIL Open Font License,
+version 1.1. Copyright (c) 2000-2013, SIL International
+(http://scripts.sil.org/) with Reserved Font Names "Abyssinica" and
+"SIL".
+The license is copied in "OFL.txt".
+
+
+------------------------------------------------------------------------
+Amiri Fonts
+------------------------------------------------------------------------
+
+Copyright (c) 2010-2013, Khaled Hosny (<khaledhosny@eglug.org>)
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+AnjaliOldLipi Font
+------------------------------------------------------------------------
+
+Copyright 2004-2007 Kevin & Siji, 2007-2011 Cibu Johny with reserved
+font name AnjaliOldLipi
+The license is copied in "OFL.txt".
+
+
+------------------------------------------------------------------------
+Annapurna SIL Fonts
+------------------------------------------------------------------------
+
+This Font Software is Copyright (c) 2007-2015, SIL International
+(http://scripts.sil.org/)
+with Reserved Font Names "Annapurna" and "SIL".
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+AR PL UKai Fonts
+------------------------------------------------------------------------
+
+This font is derieved from the "AR PL" and "AR PL" fonts. ((c) Copyright
+1994-1999, Arphic Technology Co., Ltd.)
+
+Modifications have been made to add, replace and modify glyphs, change
+encoding and add bitmap representations. ((c) Copyright 2003-2007 Arne
+Goetje <arne@ubuntu.com>)
+The license is copied in "ARPHICPL.txt".
+
+
+------------------------------------------------------------------------
+Caslon Font
+------------------------------------------------------------------------
+
+Caslon font — Created in 2003 by George Williams 
+Licensed as: SIL Open Font License (OFL)
+The license is copied in "OFL.txt".
+
+
+------------------------------------------------------------------------
+Caudex Font
+------------------------------------------------------------------------
+
+Copyright (c) 2011, Hjort Nidudsson (http://caudex.sf.net),
+with Reserved Font Name Caudex.
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Comic Relief Font
+------------------------------------------------------------------------
+
+Copyright (c) 2013, Jeff Davis (info@loudifier.com),
+with Reserved Font Name “Comic Relief”.
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Consola Mono Font
+------------------------------------------------------------------------
+
+Copyright (c) 2012, wmk69 (wmk69@o2.pl),
+with Reserved Font Names "ConsolaMono", "Consola Mono", "Consola Mono
+Bold".
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Courier Prime Font
+------------------------------------------------------------------------
+
+Courier Prime was designed by Alan Dague-Greene for John August and
+Quote-Unquote Apps.
+
+It’s released under the SIL Open Font License (OFL) license.
+The license is copied in "OFL.txt".
+
+
+------------------------------------------------------------------------
+Cousine Font
+------------------------------------------------------------------------
+
+Digitized data copyright (c) 2010 Google Corporation.
+
+Licensed under the Apache License, Version 2.0.
+The license is copied in "Apache-license.txt".
+
+
+------------------------------------------------------------------------
+DejaVu Fonts
+------------------------------------------------------------------------
+
+Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+DejaVu fonts are (c) Bitstream (see below). DejaVu changes are in public
+domain.
+Glyphs imported from Arev fonts are (c) Tavmjong Bah (see below)
+The license is copied in "Bitstream-license.txt".
+
+
+------------------------------------------------------------------------
+EB Garamond Fonts
+------------------------------------------------------------------------
+
+Copyright (c) 2010, 2011 Georg Duffner (http://www.georgduffner.at)
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Ekushey Lohit Font
+------------------------------------------------------------------------
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.0.
+No modification of the license is permitted, only verbatim copy is
+allowed.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Ethiopic Fantuwua Font
+------------------------------------------------------------------------
+
+Copyright (c) 2006-2008 Senamirmir Project. All Right Reserved. Released
+under the SIL Open Font License; http://scripts.sil.org/OFL
+The license is copied in "OFL.txt".
+
+
+------------------------------------------------------------------------
+Ethiopic Wookianos Font
+------------------------------------------------------------------------
+
+Copyright (c) 1998-2008 Senamirmir Project. All Right Reserved. Released
+under the SIL Open Font License; http://scripts.sil.org/OFL
+The license is copied in "OFL.txt".
+
+
+------------------------------------------------------------------------
+Ethiopic Yigezu Bisrat Gothic Font
+------------------------------------------------------------------------
+
+Copyright (c) 1998-2008 Senamirmir Project. All Right Reserved. Released
+under the SIL Open Font License; http://scripts.sil.org/OFL
+The license is copied in "OFL.txt".
+
+
+------------------------------------------------------------------------
+HanaMinA Font
+------------------------------------------------------------------------
+
+Copyright (c) 2013, GlyphWiki Project (kamichi@ic.daito.ac.jp),
+with Reserved Font Name "Hanazono Font", "HanaMinA", "HanaMinB",
+"花園フォント", "花園明朝A", and "花園明朝B".
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Jomolhari Font
+------------------------------------------------------------------------
+
+This Font Software is Copyright (c) 2006, Christopher J Fynn
+All Rights Reserved.
+
+"Jomolhari" is a Reserved Font Name for this Font Software.
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.0.
+No modification of the license is permitted, only verbatim copy is
+allowed.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Kalpurush Font
+------------------------------------------------------------------------
+
+Developer: Tanbin Islam Siyam
+Developed under 'Avro Font Development Project'.
+http://www.omicronlab.com
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.0. No modification of the license is permitted, only verbatim copy is
+allowed. This license is copied in "OFL.txt", and is also available with
+a FAQ at: http://scripts.sil.org/OFL
+Latin typefaces are from Gentium
+(http://scripts.sil.org/cms/scripts/page.php?item_id=Gentium). Gentium
+is a trademark of SIL International.
+
+
+------------------------------------------------------------------------
+Lohit Fonts
+------------------------------------------------------------------------
+
+Copyright 2011-13 Lohit Fonts Project contributors
+  <http://fedorahosted.org/lohit>
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+Lohit is a trademark of Red Hat, Inc. 
+
+
+------------------------------------------------------------------------
+Noto Fonts, except for Noto Sans CJK Fonts
+------------------------------------------------------------------------
+
+Copyright 2010 Google Inc. All Rights Reserved.
+
+Licensed under the Apache License, Version 2.0.
+The license is copied in "Apache-license.txt".
+
+
+------------------------------------------------------------------------
+Noto Sans CJK Fonts
+------------------------------------------------------------------------
+
+Copyright (c) 2014, 2015 Adobe Systems Incorporated
+(http://www.adobe.com/).
+
+This Font Software is licensed under the SIL Open Font License,
+Version 1.1.
+
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Padauk Fonts
+------------------------------------------------------------------------
+
+Copyright SIL International, all rights reserved
+Reserved names: "Padauk"
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Rupali Font
+------------------------------------------------------------------------
+
+Designed by: Solaiman Karim <solaiman@ekushey.org>
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.0.
+No modification of the license is permitted, only verbatim copy is
+allowed.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+SeoulHangang Fonts
+------------------------------------------------------------------------
+
+Seoul Type is available to download for free. Everyone is welcome to
+utilize the Type on multimedia channels, publications, web, and mobile
+formats without seeking permission.
+Note that distributing Seoul Type in exchange for money or any other
+commercial acts is prohibited.
+
+
+------------------------------------------------------------------------
+SolaimanLipi Font
+------------------------------------------------------------------------
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.0. No modification of the license is permitted, only verbatim copy is
+allowed. This license and a FAQ is also available at:
+http://scripts.sil.org/OFL
+The license is copied in "OFL.txt".
+
+
+------------------------------------------------------------------------
+TharLon Font
+------------------------------------------------------------------------
+
+Copyright (c) 2010-2012, Sai Zin Di Di Zone
+(www.yunghkio.com/unicode|saiddzone@gmail.com), with Reserved Font Name
+'Yunghkio'. Copyright (c) 2012, Google, Inc
+(http://code.google.com/p/googlefontdirectory/), with Reserved Font Name
+'Arimo'. Copyright (c) 2012, Sun Tun, Ngwe Tun, Solveware Solution
+(http://code.google.com/p/tharlon-font|info@parabaik.info), with
+Reserved Font Name 'TharLon'.
+
+This Font Software is licensed under the SIL Open Font License, Version
+1.1.
+This license is copied in "OFL.txt", and is also available with a FAQ
+at:
+http://scripts.sil.org/OFL
+
+
+------------------------------------------------------------------------
+Tinos Fonts
+------------------------------------------------------------------------
+
+Digitized data copyright (c) 2010-2012 Google Corporation.
+
+Licensed under the Apache License, Version 2.0.
+The license is copied in "Apache-license.txt".
+
