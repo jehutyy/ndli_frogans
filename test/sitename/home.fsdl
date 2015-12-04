@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<frogans-fsdl version='3.0'>
-<resdraw resid='resd1' size='640,480' figure='ellipse' stroke='off' color='#118C7B'/>
-<layer layerid='layer1' leapout='all' resref='resd1' pos='0,0' align='top-left' combine='add' />
-</frogans-fsdl>

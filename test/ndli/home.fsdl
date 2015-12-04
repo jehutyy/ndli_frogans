@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<frogans-fsdl version='3.0'>
+<!-- preparation filtre -->
+<setfilter filterid="filter">
+	<filter effect="light" level="-50"/>
+</setfilter>
+
+<!-- preparation image ndli -->
+<file fileid="logo" nature="static" name="/images/ndlilogo.png" cache="on" />
+<resimage resid="reslogo" size="125,125" fileref="logo" />
+
+<!-- ressources fond et cadre -->
+<resdraw resid='resd1' size='300,480' figure='roundrect' stroke='on' color='#000000'/>
+<resdraw resid='resd2' size='300,480' figure='roundrect' stroke='off' color='#ffffff'/>
+
+<!-- ajout layer fond et cadre -->
+<layer layerid='layer2' leapout='all' resref='resd2' filterref="filter" pos='0,0' align='top-left' combine='add' opacity="60" />
+<layer layerid='layer1' leapout='all' resref='resd1'  pos='0,0' align='top-left' combine='add' />
+
+<!-- layer logo -->
+<layer layerid="logolayer" leapout="all" resref="reslogo" pos='112,-25' align='top-right' combine='add' />
+
+<!-- preparation texte titre -->
+<setfont fontid="font">
+	<font scripts="default" pfont="101-1-serif-r" height="8.0" color="#ffffff" xbold="50" xitalic="60"/>
+</setfont>
+
+<restext resid="titre" size="120,120" orientation="h-ttb-ltr" fontref="font" talign="center">
+	<text> Urgence et Reseaux sociaux </text>
+</restext>
+
+<!-- layer texte et titre -->
+<layer layerid="layertexte" leapout="all" resref="titre" pos="275,25" align="top-right" combine="add" />
+
+<!-- preparation texte plus puce -->
+<restext resid="protec" size="200,200" orientation="h-ttb-ltr" fontref="font" >
+	<text> La protection civile pour qui ? </text>
+</restext>
+
+<restext resid="aidepop" size="200,200" orientation="h-ttb-ltr" fontref="font" talign="center">
+	<text>&#x2022;L'aide aux populations </text>
+</restext>
+
+<restext resid="pk" size="200,200" orientation="h-ttb-ltr" fontref="font" talign="center">
+	<text> La protection civile pourquoi ? </text>
+</restext>
+
+<restext resid="collec" size="200,200" orientation="h-ttb-ltr" fontref="font" talign="center">
+	<text> &#x2022; La collecte d'information </text>
+</restext>
+
+<restext resid="confsec" size="200,200" orientation="h-ttb-ltr" fontref="font" talign="center">
+	<text>&#x2022;Confidentialité et sécurité </text>
+</restext>
+
+<restext resid="opendata" size="200,200" orientation="h-ttb-ltr" fontref="font" talign="center">
+	<text> &#x2022; Données et normes ouvertes </text>
+</restext>
+
+<!-- layer texte plus puce -->
+<layer layerid="protecLayer" leapout="all" resref="protec" pos="220,120" align="top-right" combine="add" />
+<layer layerid="aidepopLayer" leapout="all" resref="aidepop" pos="220,180" align="top-right" combine="add" />
+<layer layerid="pklayer" leapout="all" resref="pk" pos="220,240" align="top-right" combine="add" />
+<layer layerid="collecLayer" leapout="all" resref="collec" pos="220,300" align="top-right" combine="add" />
+<layer layerid="confesecLayer" leapout="all" resref="confsec" pos="220,360" align="top-right" combine="add" />
+<layer layerid="opendataLayer" leapout="all" resref="opendata" pos="220,420" align="top-right" combine="add" />
+
+<!-- bouton  -->
+<setfont fontid="font2">
+	<font scripts="default" pfont="101-1-serif-r" height="12.0" color="#000000"/>
+</setfont>
+<restext resid="textbouton" size="50,50" orientation="h-ttb-ltr" fontref="font2" talign="center">
+	<text>&#x2192;</text>
+</restext>
+<!-- <file fileid="fileslide" nature="static" name="/slide2.fsdl" />
+<button buttonid="popslide" goto="slide" fileref="fileslide">
+	<layer layerid="layerboutonpop" leapout="lead" resref="textbouton" pos="240,190" align="top-right" combine="clip" visible="always"/>
+</button> -->
+</frogans-fsdl>
+
